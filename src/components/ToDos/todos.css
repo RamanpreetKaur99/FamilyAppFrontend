@@ -1,0 +1,38 @@
+.todoimgparent{
+    margin-left: 15%;
+  }
+  
+  #todoimg{
+      height: 100%;
+      width: 100%;
+      border-radius: 3em;
+  }
+  
+  .imgcol{
+      margin-left: 2%;
+      margin-top: 6%;
+      text-align: center;
+  }
+
+  .formcol{
+    margin-left: 2%;
+    margin-top: 6%;
+    text-align: left;
+}
+  
+  #textdisplay{
+      font-style: italic;
+      font-size: x-large;
+      color: rgb(5, 49, 99);
+  }
+  
+  .todos {
+      background-color: rgb(241, 198, 241);
+      min-height: 90vh;
+  }
+  
+  .itemscol{
+      margin-top: 3%;
+  }
+  
+  

@@ -1,0 +1,32 @@
+.groceryimgparent{
+  height: 25rem;
+}
+
+#groceryimg{
+    height: 100%;
+    width: 100%;
+    border-radius: 3em;
+}
+
+.imgcol{
+    margin-left: 2%;
+    margin-top: 6%;
+    text-align: center;
+}
+
+#textdisplay{
+    font-style: italic;
+    font-size: x-large;
+    color: deeppink;
+    margin-left: 14%;
+}
+
+.groceries {
+    background-color: rgb(247, 241, 188);
+    min-height: 90vh;
+}
+
+.itemscol{
+    margin-top: 3%;
+}
+
