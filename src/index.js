@@ -7,7 +7,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.min.js';
 import axios from 'axios'
 
-axios.defaults.baseURL = "http://127.0.0.1:8000/"
+axios.defaults.baseURL = "https://mybackendd.herokuapp.com/"
 
 
 ReactDOM.render(
